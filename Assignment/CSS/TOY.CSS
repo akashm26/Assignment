@@ -1,0 +1,51 @@
+#top{
+    border: 1px solid;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+#headerContainer{
+    display: flex;
+    width:80%;
+    margin-left: 10%;
+    max-width: 1200px;
+}
+#top2{
+    border: 1px solid;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    height: 85vh;
+    background: url("https://businesstoys.in/campaigns/career-restart-for-women-data-science/assets/header-background.png");
+    background-position: center;
+    background-size: cover;
+}
+#company{
+    border: 1px solid;
+    width: 700px;
+    margin: auto;
+    height: 97px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    transform: translateY(-3rem);
+    background-color: white;
+    box-shadow: 0 1.5rem 2rem rgb(0 0 0 / 60%);
+
+    
+}
+#flowchart{
+
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    height: 640px;
+    text-align: center;
+    
+}
+
+
+
+    
