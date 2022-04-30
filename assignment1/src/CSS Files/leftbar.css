@@ -1,0 +1,14 @@
+ul{
+    width: 250px;
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+
+}
+li{
+    padding: 15px;
+}
+#first{
+background: #F5F5FE;
+border-radius: 0px 37px 37px 0px;
+}

@@ -1,0 +1,42 @@
+#firstName{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #0F1419;
+}
+#secondName{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+display: flex;
+align-items: center;
+color: #707D85;
+}
+#firstlist{
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#secondlist{
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#secondheading{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+color: #2A373F;
+}
+#btn{
+    border-radius: 999ch
+
+}

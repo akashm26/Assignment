@@ -1,0 +1,90 @@
+#btnone{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #707D85;
+    background-color: white;
+    border-color: white;
+    text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+     margin: 10px;
+}
+#search{
+    display: flex;
+    
+}
+#coins{
+    /* border: 1px solid; */
+    
+    width: 59px;
+    height: 9px;
+    background: linear-gradient(180deg, #FFD893 0%, #FFA300 100%);
+    border-radius: 30px;
+    box-sizing: border-box;
+    
+}
+#bindcoins{
+    display: flex;
+    flex-direction: column;
+}
+#coinss{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+#co{
+    margin-left: 15px;
+}
+#coinbrd{
+    
+    border: 1px solid;
+    width: 94px;
+    height: 10px;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+#brata{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+height: 30px; 
+
+/* text-align: right; */
+color: #112634;
+mix-blend-mode: normal;
+opacity: 0.9;
+display: flex;
+align-items:center ;
+
+}
+#up{
+
+    background: linear-gradient(180deg, #FFD893 0%, #FFA300 100%);
+    border-radius: 11px;    
+}
+
+#headerbar{
+    display: flex;
+    justify-content:space-between;
+    border: 0px solid;
+    margin: 10px;
+    padding: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+#srch{
+    width: 229px;  
+}
+#zin{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #5D5FEF;
+text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+margin-left: 20px;
+padding: 10px;
+}
