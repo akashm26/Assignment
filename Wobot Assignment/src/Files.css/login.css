@@ -1,0 +1,50 @@
+#container{
+    border: 1px solid;
+    width: 460px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(157, 157, 157, 0.12);
+    border-radius: 15px;
+    
+}
+#heading{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #212121;
+    
+}
+#subheading{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #545454;
+}
+#outline{
+    border: 1px solid;
+    width: 1370px;
+    height: 600px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/public/images/back3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#wobotimg{
+    width: 150px;
+    height: 34px;
+    margin-left: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
