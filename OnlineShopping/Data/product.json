@@ -1,0 +1,23 @@
+[
+    {
+     "name":"LAPTOP",
+     "price":10000,
+     "discount":10,
+     "manufacture":"DELL",
+     "imageUrl":"https://m.media-amazon.com/images/I/71uOkXZyteL._AC_SS450_.jpg"
+ },
+ {
+     "name":"LAPTOP",
+     "price":10000,
+     "discount":10,
+     "manufacture":"HP",
+     "imageUrl":"https://m.media-amazon.com/images/I/71uOkXZyteL._AC_SS450_.jpg"
+ },
+ {
+     "name":"LAPTOP",
+     "price":10000,
+     "discount":10,
+     "manufacture":"HP",
+     "imageUrl":"https://m.media-amazon.com/images/I/71uOkXZyteL._AC_SS450_.jpg"
+ }
+  ]

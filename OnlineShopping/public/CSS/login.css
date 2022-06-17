@@ -1,0 +1,63 @@
+body{
+    background-color: gainsboro;
+}
+header,main,footer{
+border: 1px solid;
+margin: 10px;
+padding: 10px;
+position:absolute;
+left: 10px;
+right: 10px;
+background-color: #fff
+}
+header{
+position: absolute;
+top: 10px;
+text-align: center;
+}
+main{
+position: absolute;
+top: 60px;
+bottom: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+overflow: auto;
+
+}
+footer{
+position: absolute;
+bottom: 10px;
+text-align: center;
+
+}
+.Container{
+background-color: #ccc;
+
+
+}
+ul{
+list-style: none;
+margin: 10px;
+padding: 10px;
+}
+li{
+margin: 10px;
+}
+.link{
+    cursor: pointer;
+    color:blue;
+    margin: 10px;
+}
+.Correction{
+    display: none;
+    color: red;
+    text-align: center;
+}
+#refer{
+    color: red;
+    display: none;
+}
+b{
+    text-align: center;
+}
